@@ -1,11 +1,9 @@
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import model.*;
-import org.codehaus.jackson.map.ObjectMapper;
 
 import java.io.IOException;
 
-public class Program {
+public class Program
+{
 
     Database db;
 
